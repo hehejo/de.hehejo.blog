@@ -30,8 +30,8 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      coments: true
-      # author: "Johannes"
+      comments: true
+      author: "Johannes"
  -
     scope:
       path: "" 
