@@ -4,6 +4,7 @@
 .highlight {
     background: #fff;
     @extend %vertical-rhythm;
+    .lineno { font-size: smaller; color: $brand-color; font-family: $head-font-family; }
 
     .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error
