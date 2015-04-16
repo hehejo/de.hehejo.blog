@@ -1,0 +1,4 @@
+<FilesMatch ".(html|css|js|xml|ico|otf)$">
+    SetOutputFilter DEFLATE
+</FilesMatch>
+
