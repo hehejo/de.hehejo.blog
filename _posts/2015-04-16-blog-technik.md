@@ -12,7 +12,7 @@ Statische Webseiten-Generatoren gibt es wie Sand am Meer; auch wenn man sich nur
 Aktuell wird dieser Blog mit [jekyllrb][jekyll] betrieben. Eine alte Fassung lief mal mit [nanoc][nanoc].Die andere Seite meiner Medaille ([johannesheld.net][jh]) wird von [middleman][mm] erzeugt.
 
 ## Weshalb also jekyll?
-Jekyll macht es Bloggern einfach. Jede Datei im Ordner `_posts`, die dem Namenschema `YYYY-MM-DD-Your-Post-Title.md` genügt, wird als Post verarbeitet. Der Text wird mit [Markdown](http://daringfireball.net/projects/markdown/) (oder auch textile) ausgezeichnet. Die Templates werden mit [liquid](https://docs.shopify.com/themes/liquid-documentation/basics) erstellt. Fertig.[^3]   
+Jekyll macht es Bloggern einfach. Jede Datei im Ordner `_posts`, die dem Namensschema `YYYY-MM-DD-Your-Post-Title.md` genügt, wird als Post verarbeitet. Der Text wird mit [Markdown](http://daringfireball.net/projects/markdown/) (oder auch textile) ausgezeichnet. Die Templates werden mit [liquid](https://docs.shopify.com/themes/liquid-documentation/basics) erstellt. Fertig.[^3]   
 Jekyll ist zudem das System hinter [Github Pages][pages]. Schaut doch zum Spaß mal auf [hehejo.github.io](http://hehejo.github.io) vorbei.
 
 Mit nanoc hatte ich damals gute Erfahrungen gemacht. Alles konnte genau definiert und eingestellt werden.

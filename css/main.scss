@@ -43,14 +43,6 @@ $on-laptop:        680px;
     }
 }
 
-@mixin hyphens {
-   -moz-hyphens: auto;
-   -o-hyphens: auto;
-   -webkit-hyphens: auto;
-   -ms-hyphens: auto;
-   hyphens: auto;
-}
-
 @import 'http://fonts.googleapis.com/css?family=Kaushan+Script';
 
 
