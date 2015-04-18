@@ -11,23 +11,23 @@ Natürlich gibt es ein paar Unterschiede.
 
 
 ## Programm vs Methode
-Bei CodeEval muss ein Programm abgegeben werden, das die Eingabe (via `stdin`) annimmt und parst und die Ausgabe (die Lösung) auf `stdout` ausgibt. Parsen der Eingabe ist also *immer* ein Bestandteil des Programmes.  
+Bei CodeEval muss ein Programm abgegeben werden, das die Eingabe (via `stdin`) annimmt und parst und die Ausgabe (die Lösung) auf `stdout` ausgibt. Parsen der Eingabe ist also *immer* ein Bestandteil des Programmes.
 CodeWars hingegen ruft eine Methode auf. Die Signatur ist dabei vorgegeben und muss eingehalten werden. Alles andere ist dem Entwickler selbst überlassen.
 
 ## Tests
-CodeEval liefert eine Testeingabe und -ausgabe; die Programmkorrektheit ist also leicht per `diff` prüfbar. Schummeln, d.h. nur die geforderte Ausgabe erzeugen, reicht aber nicht (oder zumindest nicht für die volle Punktzahl): es gibt versteckte Tests.   
-Bei CodeWars stellen die Aufgabensteller *meist* Testsuiten bereit. Es kann jedoch aus passieren, dass man diese selbst erstellen muss.
+CodeEval liefert eine Testeingabe und -ausgabe; die Programmkorrektheit ist also leicht per `diff` prüfbar. Schummeln, d.h. nur die geforderte Ausgabe erzeugen, reicht aber nicht (oder zumindest nicht für die volle Punktzahl): es gibt versteckte Tests.
+Bei CodeWars stellen die Aufgabensteller *meist* Testsuiten bereit. Es kann jedoch auch passieren, dass man diese selbst erstellen muss.
 
 ## UI
 Ganz klar: CodeWars ist sexier. Es sieht und fühlt sich wie eine IDE aus. Bei CodeEval ist's eher wirklich ein Abgabesystem: Code schreiben, hochladen und auf die Prüfverarbeitung warten.
 
 ## Rankings
-Bei CodeEval bearbeitet man Aufgaben (verschiedener Schwere), erhält dafür Punkte und steigt im Ranking auf.   
+Bei CodeEval bearbeitet man Aufgaben (verschiedener Schwere), erhält dafür Punkte und steigt im Ranking auf.
 CodeWars organisiert die Aufgaben in Katas und der Entwickler erlangt verschiedene Grade (kyu). Das ist irgendwie süß.
 
 ## Community
-Die Community ist bei CodeWars viel mehr ausgeprägt. Aufgaben (und Lösungen) werden diskutiert und bewertet (_best practise_ und _clever_) werden. Ebenso lässt sich eine fremde Lösung mit der Eigenen vergleichen.   
-Bei CodeEval ist man eher ein Einzelkämpfer und sieht höchstens, dass der Code _unique_ ist. Und CodeEval zeigt mir RAM-Verbrauch und Laufzeit an. Das ist nett.
+Die Community ist bei CodeWars viel mehr ausgeprägt. Aufgaben (und Lösungen) werden diskutiert und bewertet (_best practise_ und _clever_). Ebenso lassen sich fremde Lösungen mit der eigenen Lösung vergleichen.
+Bei CodeEval ist man eher ein Einzelkämpfer und sieht höchstens, ob der eigene Code _unique_ ist. Und CodeEval zeigt mir RAM-Verbrauch und Laufzeit an. Das ist nett.
 
 ## Unterstützte Programmiersprachen
 CodeWars unterstützt derzeit Clojure, CoffeeScript, C#, Haskell, Java, JavaScript, Python und Ruby.   
