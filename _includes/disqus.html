@@ -1,9 +1,12 @@
-<section class="site-comments">
+<aside class="site-comments">
 	<h3>Kommentare</h3>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'hehejo';
+	var disqus_identifier = '{{ page.title | md5sum }}';
+	var disqus_url = '{{ page.url | prepend: site.baseurl | prepend: site.url }}';
+	var disqus_title = '{{ page.title}}';
     
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
@@ -13,4 +16,4 @@
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-</section>
+</aside>
