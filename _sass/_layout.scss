@@ -113,7 +113,7 @@
 }
 
 .site-comments {
-	border-top: 1px solid $brand-color;
+	border-top: 2px solid $brand-color;
 }
 
 /**
@@ -121,6 +121,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
+    border-bottom: 5px solid $brand-color;
     padding: $spacing-unit 0;
 }
 
@@ -267,6 +268,7 @@
 
 .footnotes {
 	border-top: 1px solid $brand-color;
+	font-size: 0.9em;
 }
 
 .post-navigation {

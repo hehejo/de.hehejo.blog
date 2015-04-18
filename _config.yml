@@ -19,8 +19,8 @@ sass:
 # Build settings
 exclude: ['Rakefile', 'Gemfile','Gemfile.lock', 'Procfile']
 markdown: kramdown
-
-# highlighter: rouge
+# kramdown:
+#    highlighter: rouge
 
 
 defaults:

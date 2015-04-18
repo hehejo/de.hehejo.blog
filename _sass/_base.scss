@@ -29,7 +29,7 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+p, blockquote,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
@@ -139,17 +139,20 @@ pre,
 code {
     font-size: 15px;
     // border: 1px solid $grey-color-light;
-    border-radius: 3px;
+    // padding: 1px 5px;
 }
 
 code {
-    padding: 1px 5px;
-    background-color: #eef;
+    border-radius: 10px;
+    padding: 2px 5px;
+    background-color: $grey-color-light;//#eef;
+    color: $brand-color;
 }
 
 pre {
     // padding: 8px 12px;
     overflow-x: auto;
+    background-color: $background-color;
 
     > code {
         border: 0;
@@ -212,4 +215,3 @@ pre {
         }
     }
 }
-

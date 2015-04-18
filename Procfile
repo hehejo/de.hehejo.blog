@@ -1,2 +1,2 @@
-jekyll: jekyll build --watch
+jekyll: jekyll build --future --watch
 server: darkhttpd _site 
