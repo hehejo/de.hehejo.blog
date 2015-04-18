@@ -22,12 +22,12 @@ Bei CodeWars stellen die Aufgabensteller *meist* Testsuiten bereit. Es kann jedo
 Ganz klar: CodeWars ist sexier. Es sieht und fühlt sich wie eine IDE aus. Bei CodeEval ist's eher wirklich ein Abgabesystem: Code schreiben, hochladen und auf die Prüfverarbeitung warten.
 
 ## Rankings
-Bei CodeEval bearbeitet man Aufgaben (verschiedener Schwere), erhält dafür Punkte und steigt im Ranking auf.
+Bei CodeEval bearbeitet man Aufgaben (verschiedener Schwere), erhält dafür Punkte und steigt im Ranking auf.   
 CodeWars organisiert die Aufgaben in Katas und der Entwickler erlangt verschiedene Grade (kyu). Das ist irgendwie süß.
 
 ## Community
-Die Community ist bei CodeWars viel mehr ausgeprägt. Aufgaben (und Lösungen) werden diskutiert und bewertet (_best practise_ und _clever_) werden. Ebenso kann man einfach fremde und die einge Lösung vergleichen.   
-Bei CodeEval ist man eher ein Einzelkämpfer und sehe höchstens, dass mein Code `unique` ist. Und CodeEval zeigt mir RAM-Verbrauch und Laufzeit an. Das ist nett.
+Die Community ist bei CodeWars viel mehr ausgeprägt. Aufgaben (und Lösungen) werden diskutiert und bewertet (_best practise_ und _clever_) werden. Ebenso lässt sich eine fremde Lösung mit der Eigenen vergleichen.   
+Bei CodeEval ist man eher ein Einzelkämpfer und sieht höchstens, dass der Code _unique_ ist. Und CodeEval zeigt mir RAM-Verbrauch und Laufzeit an. Das ist nett.
 
 ## Unterstützte Programmiersprachen
 CodeWars unterstützt derzeit Clojure, CoffeeScript, C#, Haskell, Java, JavaScript, Python und Ruby.   
@@ -37,7 +37,7 @@ CodeEval unterstützt derzeit Bash (4.2.24), C (4.8.1), C# (4.0), C++ (4.8.1), C
 Auf beiden Plattformen macht es Spaß Denkaufgaben zu lösen. CodeWars ist schöner gestaltet und bietet mit der Diskussionsmöglichkeit von Lösungen einen echten Mehrwert.
 Außerdem lernt man hier gleich *test-driven-development*. 
 Aber *leider* funktioniert bei mir der Editor nicht korrekt und ich kann kein `=` tippen.[^1]    
-Wegen den Editorproblemen bin ich derzeit aber eher bei CodeEval unterwegs.
+Wegen diesem Editorproblemen bin ich derzeit aber eher bei CodeEval unterwegs.
 
 (Siehe auch meine Profile bei [CodeWars][cw-jo] und bei [CodeEval][ce-jo].)
 
