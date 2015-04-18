@@ -137,9 +137,10 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
+    font-size: 0.8em;
     // border: 1px solid $grey-color-light;
     // padding: 1px 5px;
+    font-family: Menlo, Consolas, monospace;
 }
 
 code {
@@ -147,12 +148,14 @@ code {
     padding: 2px 5px;
     background-color: $grey-color-light;//#eef;
     color: $brand-color;
+    
 }
 
 pre {
     // padding: 8px 12px;
     overflow-x: auto;
     background-color: $background-color;
+    
 
     > code {
         border: 0;
