@@ -1,0 +1,12 @@
+ <navigation class="post-meta post-navigation">
+  {% if page.previous %}
+  <span class="post-previous">« {{ page.previous.date |date: "%Y-%m-%d" }} 
+  <a href="{{page.previous.url}}" class="post-previous">{{page.previous.title}}</a>
+  </span>
+  {% endif %}
+  {% if page.next %}
+  <span class="post-next">
+  <a href="{{page.next.url}}" class="post-next">{{page.next.title}}</a>
+  {{ page.next.date |date: "%Y-%m-%d" }} »</span>
+  {% endif %}
+  </navigation>
