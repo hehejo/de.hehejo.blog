@@ -4,7 +4,7 @@ email: mail@hehejo.de
 description: > # this means to ignore newlines until "baseurl:"
   In diesem Blog schreibe ich über Alles was mich interessiert, Kniffe und Tricks die ich gelernt habe, Zeug das ich teilenswert finde. Einfach so!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hehejo.de" # the base hostname & protocol for your site
+url: "http://blog.hehejo.de" # the base hostname & protocol for your site
 
 twitter_username: hehejo
 github_username:  hehejo
@@ -17,6 +17,7 @@ sass:
     style: :compressed
 
 # Build settings
+future: false
 exclude: ['Rakefile', 'Gemfile','Gemfile.lock', 'Procfile']
 markdown: kramdown
 # kramdown:
