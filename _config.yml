@@ -50,19 +50,25 @@ picture:
           attr:
             class: "default-pict"
           source_medium:
-            media: "(max-width: 40em)"
-            width: "120"
-            height: "80"
+            media: "(max-width: 520px)"
+            width: "220"
           source_default:
             width: "680"
+     teaser:
+             ppi: [1,1.5,2]
+             attr:
+                     class: "teaser-pict"
+             source_default:
+                     width: "680"
+                     height: "156"
      gallery:
           ppi: [1, 1.5]
           attr:
             class: "gallery-pict"
             itemprop: "image"
           source_medium:
-            media: "(min-width: 40em)"
-            width: "600"
-            height: "300"
-          source_default: 
-            width: "300"
+            media: "(max-width: 520px)"
+            width: "220"
+          source_default:
+            width: "680"
+
