@@ -2,7 +2,7 @@
 title: Fußnoten mit Markdown
 tags: technik quickie
 ---
-Mit Kramdown kann man Fußnoten setzen. Ähnlich zu einem Link fügt man an der gewünschten Stelle einen Marker `[^NAME]` ein und wieder holt diesen später mit dem Fußnotentext.
+Mit Kramdown kann man Fußnoten setzen. Ähnlich zu einem Link fügt man an der gewünschten Stelle einen Marker `[^NAME]` ein und wiederholt diesen später mit dem Fußnotentext.
 
 <pre>
 <code class="markdown">Ich bin Text.[^1]
