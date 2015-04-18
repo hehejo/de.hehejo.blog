@@ -17,7 +17,7 @@ sass:
     style: :compressed
 
 # Build settings
-exclude: ['Rakefile', 'Gemfile','Gemfile.lock']
+exclude: ['Rakefile', 'Gemfile','Gemfile.lock', 'Procfile']
 markdown: kramdown
 
 # highlighter: rouge

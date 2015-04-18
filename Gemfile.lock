@@ -17,6 +17,8 @@ GEM
     fastimage (1.6.8)
       addressable (~> 2.3, >= 2.3.5)
     ffi (1.9.8)
+    foreman (0.78.0)
+      thor (~> 0.19.1)
     hitimes (1.2.2)
     htmlcompressor (0.1.2)
     jekyll (2.5.3)
@@ -72,6 +74,7 @@ GEM
     safe_yaml (1.0.4)
     sass (3.4.13)
     subexec (0.2.3)
+    thor (0.19.1)
     timers (4.0.1)
       hitimes
     toml (0.1.2)
@@ -83,6 +86,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  foreman
   jekyll
   jekyll-minifier
   jekyll-picture-tag (~> 0.2.3)
