@@ -3,12 +3,10 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $head-font-family: 'Kaushan Script', cursive;
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: 'Open Sans Condensed', Helvetica, Arial, sans-serif;
+$base-font-size:   20px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.3;
 
@@ -17,6 +15,7 @@ $spacing-unit:     30px;
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #cb4b16;
+$link-color:       #859900;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -43,13 +42,13 @@ $on-laptop:        680px;
     }
 }
 
-@import 'http://fonts.googleapis.com/css?family=Kaushan+Script';
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"normalize",
         "base",
-        "layout"//,
+        "layout",
+	"fonts"
         // "syntax-highlighting"
 ;

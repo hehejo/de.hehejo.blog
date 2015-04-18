@@ -82,7 +82,9 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     font-family: $head-font-family;
-    // text-shadow: 1px 1px white;
+    color: $brand-color;
+    // text-shadow: 1px 1px black;
+    // &:hover { color: $link-color; }
 }
 
 p {
@@ -99,16 +101,22 @@ p {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $link-color;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($link-color, 10%);
     }
 
     &:hover {
-        color: $text-color;
+        color: $brand-color;
         text-decoration: underline;
+    }
+
+    &.post-link {
+
+	    color: $brand-color;
+	    &:visited { color: darken($brand-color, 10%); }
     }
 }
 
