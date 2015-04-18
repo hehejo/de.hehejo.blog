@@ -34,7 +34,7 @@ CodeWars unterstützt derzeit Clojure, CoffeeScript, C#, Haskell, Java, JavaScri
 CodeEval unterstützt derzeit Bash (4.2.24), C (4.8.1), C# (4.0), C++ (4.8.1), Clojure (1.5.1), Go (1.2), Haskell (7.4.1), Java (1.7), JavaScript (1.8.5), Lua (5.1.4), Objective-C (2.0), Perl (5.14.2), PHP (5.3.10), Python 2 (2.7.3), Python 3 (3.2.3), R (3.1.2), Ruby (1.9.3), Scala (2.10.3), Tcl (8.5), Visual Basic.NET (4.0).
 
 ## Fazit
-Auf beiden Plattformen macht es Spaß Denkaufgaben zu lösen. CodeWars ist schöner gestaltet und bietet mit der Diskussionsmöglichkeit von Lösungen einen echten Mehrwert.
+Auf beiden Plattformen macht es Spaß, Denkaufgaben zu lösen. CodeWars ist schöner gestaltet und bietet mit der Diskussionsmöglichkeit von Lösungen einen echten Mehrwert.
 Außerdem lernt man hier gleich *test-driven-development*. 
 Aber *leider* funktioniert bei mir der Editor nicht korrekt und ich kann kein `=` tippen.[^1]    
 Wegen diesem Editorproblemen bin ich derzeit aber eher bei CodeEval unterwegs.
@@ -43,7 +43,7 @@ Wegen diesem Editorproblemen bin ich derzeit aber eher bei CodeEval unterwegs.
 
 
 [cw]: http://www.codewars.com
-[cw-jo]: https://www.codeeval.com/dashboard/
+[cw-jo]: http://www.codewars.com/users/hehejo
 [ce]: http://www.codeeval.com
-[ce-jo]: http://www.codewars.com/users/hehejo
+[ce-jo]: https://www.codeeval.com/public/4e829d94a7374570ad477dc2e471ef6f0ad8a281/
 [^1]: Das könnte auch an meinem Tastaturlayout [neo-layout](http://www.neo-layout.org) liegen.
