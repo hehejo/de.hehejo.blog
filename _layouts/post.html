@@ -6,7 +6,8 @@ layout: default
   <header class="post-header">
 	{% include navigation.html %}
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%Y-%m-%d" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta}}{% endif %}</p>
+	<span class="post-meta">{{ page.date | date: "%Y-%m-%d" }}{% if page.author %} • {{ page.author }}{% endif %}{% unless page.tags.size == 0 %} • <ul class="tag_list">{% for tag in page.tags %}<li><a href="/tag/{{tag}}">{{tag}}</a></li>{% endfor %}</ul>{% endunless %}
+	</span>
 	  {% if page.teaser_image %}{% picture {{ page.teaser_image }} %}{% endif %}
   </header>
 
