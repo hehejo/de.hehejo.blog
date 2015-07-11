@@ -1,5 +1,4 @@
 GEM
-  remote: https://rubygems.org/
   specs:
     addressable (2.3.8)
     blankslate (2.1.2.4)
@@ -90,3 +89,6 @@ DEPENDENCIES
   jekyll
   jekyll-minifier
   jekyll-picture-tag (~> 0.2.3)
+
+BUNDLED WITH
+   1.10.3
