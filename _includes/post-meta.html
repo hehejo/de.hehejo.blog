@@ -1,0 +1,13 @@
+<ul class="post-meta">
+	<li>{{ post.date | date: "%Y-%m-%d" }}</li>
+	{% unless post.tags.size == 0 %}
+	<li>• <ul class="tag-list">
+			{% for tag in post.tags %}
+				<li><a href="/tag/{{tag}}">{{tag}}</a></li>
+			{% endfor %}</ul>
+	</li>
+	{% endunless %}
+</ul>		
+
+{% if post.teaser %}{% picture teaser {{ post.teaser.strip }} %}{% endif %}
+<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>

@@ -28,11 +28,11 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
+// h1, h2, h3, h4, h5, h6,
 p, blockquote,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 3;
 }
 
 
@@ -74,15 +74,6 @@ li {
     }
 }
 
-ul.tag_list {
-	list-style-type: none;
-	display: inline;	
-	margin: 0;
-	li {
-	display: inline;
-	padding-right: 0.2em;
-}
-}
 
 
 /**

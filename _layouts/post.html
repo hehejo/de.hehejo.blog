@@ -1,14 +1,18 @@
 ---
 layout: default
 ---
+
+	{% include navigation.html %}
 <div class="post">
 
   <header class="post-header">
-	{% include navigation.html %}
+	  {% if page.teaser %}{% picture {{ page.teaser.image }} %}{% endif %}
+	<ul class="post-meta">
+		<li>{{ page.date | date: "%Y-%m-%d" }}</li>
+		{% if page.author %}<li>• {{ page.author }}</li>{% endif %}
+		{% unless page.tags.size == 0 %}<li>• <ul class="tag-list">{% for tag in page.tags %}<li><a href="/tag/{{tag}}">{{tag}}</a></li>{% endfor %}</ul></li>{% endunless %}
+	</ul>
     <h1 class="post-title">{{ page.title }}</h1>
-	<span class="post-meta">{{ page.date | date: "%Y-%m-%d" }}{% if page.author %} • {{ page.author }}{% endif %}{% unless page.tags.size == 0 %} • <ul class="tag_list">{% for tag in page.tags %}<li><a href="/tag/{{tag}}">{{tag}}</a></li>{% endfor %}</ul>{% endunless %}
-	</span>
-	  {% if page.teaser_image %}{% picture {{ page.teaser_image }} %}{% endif %}
   </header>
 
   <article class="post-content">

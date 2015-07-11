@@ -1,18 +1,12 @@
 ---
 layout: default
 ---
-<h1 class="page-heading">Artikel mit dem Tag »{{page.tag}}«</h1>
+<h1 class="page-heading">Artikel mit dem Tag „{{page.tag}}“</h1>
  <ul class="post-list">
 	 {% for post in site.tags[page.tag] %}
       <li>
-		  <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}{% unless post.tags.size == 0 %} • <ul class="tag_list">{% for tag in post.tags %}<li><a href="/tag/{{tag}}">{{tag}}</a></li>{% endfor %}</ul>{% endunless %}</span>
-		  		  
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-		{% if post.teaser_image %}{% picture teaser {{ post.teaser_image }} %}{% endif %}
-        </h2>
-
-		{{ post.excerpt }}
+			{% include post-meta.html %}
+			{{ post.excerpt }}
       </li>
     {% endfor %}
   </ul>
