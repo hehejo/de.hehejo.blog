@@ -1,6 +1,6 @@
 ---
 title: Die Technik dahinter
-tags: technik
+tags: Technik
 ---
 Heute erzähle ich ein wenig über die Technik dieses Blogs.   
 Wie wird's erzeugt? Was habe ich mir beim Design gedacht?

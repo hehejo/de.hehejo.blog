@@ -1,6 +1,5 @@
 ---
 title: Frei von Facebook
-tags: social
 ---
 Seit etwa Anfang des Jahres — oder war es sogar schon im Dezember? — habe ich mich nicht mehr bei Facebook angemeldet.
 Ich bin also seit knapp fünf Monaten Facebook-frei.   

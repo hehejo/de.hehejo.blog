@@ -1,6 +1,6 @@
 ---
 title: Programmierwettbewerbe
-tags: coding 
+tags: Coding 
 ---
 Wer hält sich nicht gerne die Finger gelenkig und genießt kleine Denkaufgaben?   
 Heute möchte ich euch [CodeWars][cw] und [CodeEval][ce] vorstellen, zwei der zahlreichen Seiten auf denen man Programmieraufgaben lösen kann und sich [damit][cw-jo] [brüsten][ce-jo] darf.   
