@@ -7,6 +7,9 @@
 			{% endfor %}</ul>
 	</li>
 	{% endunless %}
+	{% if post.flickr %}
+	<li>• <a href="https://www.flickr.com/photos/hehejo/sets/{{post.flickr}}" alt="Album auf flickr">Album auf <i>flickr</i></a></li>
+	{% endif %}
 </ul>		
 
 {% if post.teaser %}{% picture teaser {{ post.teaser.strip }} %}{% endif %}
