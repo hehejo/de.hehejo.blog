@@ -14,7 +14,7 @@ Auf meinem MacBook ist alles eingerichtet und so habe ich gar nicht mehr an die 
 
 * Ruby, weil ich es als Nutzer verwalten will, habe ich per [rbenv][1] und [ruby-build][2] installiert.
 ruby-build benötigt zur Kompilierung natürlich make und gcc. `pacman -S gcc make`
-* Der Quellcode meiner Webseite liegt in einem Git-Repository auf dem NAS. Um die entsprechende Freigabe zu mounten, benötige ich also samba (bzw. cifs). Und natürlich [git][3]. `pacmen -S git cifs-ulits`
+* Der Quellcode meiner Webseite liegt in einem Git-Repository auf dem NAS. Um die entsprechende Freigabe zu mounten, benötige ich also samba (bzw. cifs). Und natürlich [git][3]. `pacman -S git cifs-ulits`
 * Jekyll nutz im Build-Prozess ExecJs und es fehlte eine nutzbare Installation von JavaScript. `pacman -S nodejs` 
 * Zur Verarbeitung der Bilder benötige ich noch [ImageMagick][4]. `pacman -S imagemagick`
 * Der Arbeitspeicher lang nicht: Ich muss ein swapfile anlegen
