@@ -217,6 +217,14 @@ ul.tag-list, ul.post-meta {
 	}
 }
 
+ul.post-meta > li:not(:first-child):before {
+	content: "• "
+}
+
+ul.tag-list > li:not(:last-child):after {
+	content: ","
+}
+
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;

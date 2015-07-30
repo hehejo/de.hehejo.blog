@@ -9,9 +9,9 @@ layout: default
 	  {% if page.teaser %}{% picture {{ page.teaser.image }} %}{% endif %}
 	<ul class="post-meta">
 		<li>{{ page.date | date: "%Y-%m-%d" }}</li>
-		{% unless page.tags.size == 0 %}<li>• <ul class="tag-list">{% for tag in page.tags %}<li><a href="/tag/{{tag}}">{{tag}}</a></li>{% endfor %}</ul></li>{% endunless %}
+		{% unless page.tags.size == 0 %}<li><ul class="tag-list">{% for tag in page.tags %}<li><a href="/tag/{{tag}}">{{tag}}</a></li>{% endfor %}</ul></li>{% endunless %}
 	{% if page.flickr %}
-	<li>• <a href="https://www.flickr.com/photos/hehejo/sets/{{page.flickr}}" alt="Album auf flickr">Album auf <i>flickr</i></a></li>
+	<li><a href="https://www.flickr.com/photos/hehejo/sets/{{page.flickr}}" alt="Album auf flickr">Album auf <i>flickr</i></a></li>
 	{% endif %}
 	</ul>
     <h1 class="post-title">{{ page.title }}</h1>

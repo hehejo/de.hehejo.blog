@@ -1,14 +1,14 @@
 <ul class="post-meta">
 	<li>{{ post.date | date: "%Y-%m-%d" }}</li>
 	{% unless post.tags.size == 0 %}
-	<li>• <ul class="tag-list">
+	<li><ul class="tag-list">
 			{% for tag in post.tags %}
 				<li><a href="/tag/{{tag}}">{{tag}}</a></li>
 			{% endfor %}</ul>
 	</li>
 	{% endunless %}
 	{% if post.flickr %}
-	<li>• <a href="https://www.flickr.com/photos/hehejo/sets/{{post.flickr}}" alt="Album auf flickr">Album auf <i>flickr</i></a></li>
+	<li><a href="https://www.flickr.com/photos/hehejo/sets/{{post.flickr}}" alt="Album auf flickr">Album auf <i>flickr</i></a></li>
 	{% endif %}
 </ul>		
 
