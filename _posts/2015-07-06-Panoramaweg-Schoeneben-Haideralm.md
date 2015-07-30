@@ -7,6 +7,7 @@ series:
 teaser:
   image: Sommerurlaub-2015/IMG_2983.jpg
   strip: Sommerurlaub-2015/IMG_2983-2.jpg
+flickr: 72157653232144484
 ---
 
 Die erste Wanderung im Vinschgau sollte den Panoramaweg von Schöneben über die Haideralm und Bruggeralm zur Kapelle Sankt Martin gehen.
@@ -30,15 +31,12 @@ Hier unser [Tracklog][log] zum Nachwandern und Staunen.
 
 {% picture Sommerurlaub-2015/IMG_3071.jpg alt="Wo geht's lang?" %}
 
-
-Unser Abendessen:
+### Unser Abendessen
 
 1. Spinatspätzle in cremiger Schinkenrahmsauce
 2. Salat vom Garten Karotten und Blumenkohl
 3. Mixed Grill vom Rind - Truthahn - Frikadelle, Speck-Zwiebelkartoffel und frischer Mangold
 4. Joghurtterrine auf Himbeermark
 
-*Mehr Fotos gibt's bei [Flickr][flickr].*
 
 [log]: /tracklogs/Sommerurlaub-2015/2015-07-06.gpx
-[flickr]: https://www.flickr.com/photos/hehejo/sets/72157653232144484

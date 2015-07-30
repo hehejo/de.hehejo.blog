@@ -7,6 +7,7 @@ tags: Wanderung Urlaub Waalweg
 teaser:
   image: Sommerurlaub-2015/IMG_3541.jpg
   strip: Sommerurlaub-2015/IMG_3541-2.jpg
+flickr: 72157653232144484
 ---
 Die heutige Route war für den wolkenlosen Himmel genau richtig gewählt: wenig Höhenmeter und viel Waldschatten.
 
@@ -16,9 +17,7 @@ Hier dennoch unser [Tracklog][log] zum Nachwandern und Staunen.
 
 {% picture Sommerurlaub-2015/IMG_3522.jpg alt="Himmelsberg" %}
 
-*Mehr Fotos gibt's bei [Flickr][flickr].*
-
-Unser Abendessen:
+### Unser Abendessen
 
 1. Antipasti und frische Salate vom Buffet
 2. Kraftbrühe mit Frittaten
@@ -27,4 +26,3 @@ Unser Abendessen:
 
 
 [log]: /tracklogs/Sommerurlaub-2015/2015-07-10.gpx
-[flickr]: https://www.flickr.com/photos/hehejo/sets/72157653232144484

@@ -7,6 +7,7 @@ series:
 teaser:
   image: Sommerurlaub-2015/Sonnenuntergang.jpg
   strip: Sommerurlaub-2015/Sonnenuntergang-2.jpg
+flickr: 72157653232144484
 ---
 
 Den diesjährigen Sommerurlaub verbringen wir an einem bekannten Ort.
@@ -29,9 +30,7 @@ Das hätten wir auch geschafft, wenn uns nicht am Ortseingang von Sankt Valentin
 Aber 200m vor dem Ziel hätte nun auch nicht sein müssen! Gegen 2 Uhr nachts waren wir dann endlich im Bett…
 Ansonsten war die Fahrt ganz schön. Nur der Reschenpass wurde wohl seit meiner Kindheit entschärft: Ich habe ihn viel länger und kurviger in Erinnerung. ;-)
 
-*Mehr Fotos gibt's bei [Flickr][flickr].*
 
 
 [fernblick]: http://www.fernblick.it
 [^1]: Zuerst sah es aus wie ein gelb beleuchteter Zebrastreifen. Dann blinkte das gelbe Licht - wir wurden langsamer - und die Ampel(!) schaltete auf rot - wir bremsten. Wäre der PKW nicht so dicht aufgefahren, hätte er uns nicht zum anhalten gebraucht. :-/
-[flickr]: https://www.flickr.com/photos/hehejo/sets/72157653232144484

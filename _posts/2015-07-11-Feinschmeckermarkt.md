@@ -7,6 +7,7 @@ tags: Urlaub
 teaser:
   image: Sommerurlaub-2015/IMG_3585.jpg
   strip: Sommerurlaub-2015/IMG_3585-2.jpg
+flickr: 72157653232144484
 ---
 Heute haben wir es gemütlich angehen lassen: statt Wanderung stand heute der Feinschmeckermarkt in [Glurns][glurns] auf dem Programm.
 
@@ -18,12 +19,11 @@ Glurns ist zudem die Geburtsstadt des berühmten Zeichners und Karikaturisten [P
 Die Ausstellung *Leben und Werk* im Kirchtorturm ist schön gemacht und an den vielen Ausstellungsstücke kann man sich nicht satt sehen.
 
 Weil wir heute nur in der Stadt umher gelaufen sind, gibt's heute keinen Tracklog für euch.   
-Aber: *Mehr Fotos gibt's bei [Flickr][flickr].*
 
 {% picture Sommerurlaub-2015/IMG_3615.jpg alt="Wegweiser zur Ausstellung Paul Flora" %}
 
 
-Unser Abendessen:
+### Unser Abendessen
 
 1. Steinpilzknödel mit gedünstetem Blaukraut 
 2. Gemischter Salatteller
@@ -31,6 +31,5 @@ Unser Abendessen:
 4. Torte mit Garten-Erdbeeren und Schlagsahne
 
 
-[flickr]: https://www.flickr.com/photos/hehejo/sets/72157653232144484
 [glurns]: http://www.glurns.eu
 [flora]: https://de.wikipedia.org/wiki/Paul_Flora

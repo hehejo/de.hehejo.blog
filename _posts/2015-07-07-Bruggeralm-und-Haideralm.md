@@ -7,6 +7,7 @@ tags: Wanderung Urlaub
 teaser:
   image: Sommerurlaub-2015/IMG_3100.jpg
   strip: Sommerurlaub-2015/IMG_3100-2.jpg
+flickr: 72157653232144484
 ---
 Caro wollte unbedingt die gestrige Wanderung zu Ende wandern - aber ohne den Abstieg.
 Also haben wir die Marschrichtung flugs umgedreht und sind über die Martinskapelle zur Bruggeralm und Haideralm aufgestiegen.
@@ -25,16 +26,12 @@ Bei dieser Wanderung bin ich an meine Grenzen gekommen und war Abends einfach nu
 Hier unser [Tracklog][log] zum Nachwandern und Staunen.
 
 
-Unser Abendessen:
+### Unser Abendessen
 
 1. Vorspeisen und bunte Salate vom Buffet
 2. Risotto von der Gerste mit Pfifferlingen
 3. Braten vom einheimischen Schwein, dazu Prinzess-Kartoffeln und Karotten-Kohlrabistäbchen
 4. Feine Waffeln mit Vanilleeis und Erdbeeren
 
-*Mehr Fotos gibt's bei [Flickr][flickr].*
-
-
 [log]: /tracklogs/Sommerurlaub-2015/2015-07-07.gpx
-[flickr]: https://www.flickr.com/photos/hehejo/sets/72157653232144484
 [^1]: Ja, ich wiederhole mich!

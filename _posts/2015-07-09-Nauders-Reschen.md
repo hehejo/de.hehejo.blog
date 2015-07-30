@@ -7,6 +7,7 @@ tags: Wanderung Urlaub
 teaser:
   image: Sommerurlaub-2015/IMG_3331.jpg
   strip: Sommerurlaub-2015/IMG_3331-2.jpg
+flickr: 72157653232144484
 ---
 Unsere Hotelwirtin Birgit bot heute eine geführte Wanderung von Nauders über den Höhenweg nach Reschen an.
 Als weiteres Lockmittel gab es den Grillnachmittag für die Wandergäste. :-)
@@ -31,15 +32,11 @@ In Sankt Valentin angekommen (per Bus von Reschen), sind wir dann zum familienei
 
 {% picture Sommerurlaub-2015/IMG_3385.jpg %}
 
-Unser Abendessen:
+### Unser Abendessen
 
 1. Vorspeisen und bunte Salate vom Buffet
 2. Risotto von der Gerste mit Pfifferlingen
 3. Braten vom einheimischen Schwein, dazu Prinzess-Kartoffeln und Karotten-Kohlrabistäbchen
 4. Feine Waffeln mit Vanilleeis und Erdbeeren
 
-*Mehr Fotos gibt's bei [Flickr][flickr].*
-
-
 [log]: /tracklogs/Sommerurlaub-2015/2015-07-09.gpx
-[flickr]: https://www.flickr.com/photos/hehejo/sets/72157653232144484

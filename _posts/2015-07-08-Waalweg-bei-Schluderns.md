@@ -7,6 +7,7 @@ series:
 teaser:
   image: Sommerurlaub-2015/IMG_3233.jpg
   strip: Sommerurlaub-2015/IMG_3233-2.jpg
+flickr: 72157653232144484 
 ---
 Heute sind wir früh aufgestanden und losgefahren, denn um 9:30 Uhr lockte die Fotostunde auf der Churburg in Schluderns.
 Danach ging es dann ins Matschtal den Leiten- und Breitenwaal entlang. 
@@ -27,7 +28,9 @@ Die Wanderung ist auch wieder empfehlenswert und zeigt dem Wanderen Wasserleitku
 {% picture Sommerurlaub-2015/IMG_3240.jpg alt="Waalweg" %}
 
 Diesmal wurden wir also nur nass und kamen ohne brennende Wadeln im Hotel an.
-Nach einer kurzen Ruhepause in der hoteleigenen Saunaanlage gab's dann ein wirklich umwerfendes Abendessen:
+Nach einer kurzen Ruhepause in der hoteleigenen Saunaanlage gab's dann ein wirklich umwerfendes Abendessen.
+
+### Unser Abendessen
 
 1. Sommersalate mit Kräuterdressing und tiroler Speck
 2. Kartoffelcremesüppchen mit Thymian
@@ -35,9 +38,5 @@ Nach einer kurzen Ruhepause in der hoteleigenen Saunaanlage gab's dann ein wirkl
 4. Geschnittenes Entrecote mit Parmesan und Rucoala, dazu Gitterkartoffeln und Paprika-Zucchinigemüse
 5. Panna Cotta von der Pfefferminze an Früchteragú
 
-*Mehr Fotos gibt's bei [Flickr][flickr].*
-
-
 [log]: /tracklogs/Sommerurlaub-2015/2015-07-08.gpx
-[flickr]: https://www.flickr.com/photos/hehejo/sets/72157653232144484
 [^1]: Die Familie derer von Matsch hatte keinen Nachfahren: An dieser Stelle ist der Stammbaum geborsten. Ein Seitenast, die Schwester Barbara heiratete einen Graf Trapp, blüht dann auf.
