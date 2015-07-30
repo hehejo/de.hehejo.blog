@@ -281,10 +281,13 @@ ul.tag-list, ul.post-meta {
 .footnotes {
 	border-top: 1px solid $brand-color;
 	font-size: 0.9em;
+	margin-top: $spacing-unit;
 }
 
 .post-navigation {
-	padding-bottom: 20px;
+	display: block;
+	border-bottom: 1px solid $brand-color;
+	margin-bottom: 20px;
 	@extend %clearfix;
 	font-style: italic;
 
