@@ -1,0 +1,14 @@
+<aside class="site-series post-meta">
+	<h3>Serie: {{page.series.name}}</h3>
+		  {{ site.posts | where:"series",true}}
+	  <ol>
+		  {% for entry in site.posts  %}
+		  {% if entry.series %}
+			{% if entry.series.name == page.series.name %}
+			<li>
+				{% if entry == page %}*{%endif%}<a  href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a>({{entry.series.part}})</li>
+			{% endif %}
+		  {% endif %}
+	  {% endfor %}
+	  </ol>
+</aside>

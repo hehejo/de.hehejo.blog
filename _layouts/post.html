@@ -17,24 +17,15 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
-  {% if page.series %}
-  <aside class="post-series">
-	  <span class="post-meta">Dieser Artikel ist Teil einer Serie.</span>
-	  <h3>{{ page.series.name }}</h3>
-	  {{ site.posts.class }}
-	  <ol class="post-meta post-list">
-		  {% for entry in site.posts %}
-		  <li>{{entry.data.series.name}}</li>
-	  <!-- <li><a class="post-link" href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a></li> -->
-	  {% endfor %}
-	  </ol>
-  </aside>
-  {% endif %}
+  
 
   <article class="post-content">
     {{ content }}
   </article>
 
+  {% if page.series %}
+  {% include series.html %}
+  {% endif %}
   {% if page.comments %}
   {% include disqus.html %}
   {% endif %}

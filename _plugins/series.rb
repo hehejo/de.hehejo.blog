@@ -8,4 +8,10 @@ module Jekyll
 			@series = self.data['series']
 		end
 	end
+
+	class Site
+		def series(name)
+			site.posts.select {|p| p.series}
+		end
+	end
 end
